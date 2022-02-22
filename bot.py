@@ -952,3 +952,6 @@ class Bot_4:
 
         my_thread = threading.Thread(target=screen.read_screen, args=(self.purpose, count,))
         my_thread.start()
+
+
+# dodanie nowego czegos
